@@ -1,12 +1,9 @@
 Apple Pie
 
 pre-made pastry
-1/2 cup butter
+1/3 cup butter
 3 tablespoons flour
-1 cup sugar
-<<<<<<< HEAD
-8 Granny Smith apples
-=======
+3/4 cup sugar
 1 tbsp cinnamon
-10 Granny Smith apples
->>>>>>> lisa
+1 tbsp lemon juice
+9 Granny Smith apples
